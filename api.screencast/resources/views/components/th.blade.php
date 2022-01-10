@@ -1,0 +1,1 @@
+<th {{ $attributes->merge(['class' => 'border-b-4 border-gray-300 py-2 px-2 text-left']) }}>{{ $slot }}</th>
